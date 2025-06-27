@@ -10,7 +10,7 @@
 using namespace std;
 int main(){
 
-  int n=2;i,j,m,k,count;
+  int n=2,i,j,m,k,count;
     for(i=1;i<=5;i++){
         m=0;
         for(j=n;m<i;j++){
